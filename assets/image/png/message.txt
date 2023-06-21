@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <title>Footer-layout</title>
+</head>
+
+<body>
+    <footer class="bg-black">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-5 mb-24 mb-lg-0">
+                    <div class="w-lg-350">
+                        <h2>Lorem ipsum dolor sit amet.</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur urna in dictum
+                            suscipit.
+                            Suspendisse maximus
+                            ipsum sem. c</p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-7">
+                    <div class="row">
+                        <ul class="col-6 col-sm-3 mb-24 mb-sm-0">
+                            <li class="mb-24">SERVICES</li>
+                            <li><a href="">links</a></li>
+                            <li><a href="">links</a></li>
+                            <li><a href="">links</a></li>
+                            <li><a href="">links</a></li>
+                        </ul>
+                        <ul class="col-6 col-sm-3 mb-24 mb-sm-0">
+                            <li class="mb-24">EVENTS</li>
+                            <li><a href="">links</a></li>
+                            <li><a href="">links</a></li>
+                            <li><a href="">links</a></li>
+                            <li><a href="">links</a></li>
+                        </ul>
+                        <ul class="col-12 col-sm-6">
+                            <li class="mb-24">GALLERY</li>
+                            <li>
+                                <ul class="row">
+                                    <li class="col-4 mb-24">
+                                        <a href="">
+                                            <img src="./assets/image/footer-gallery-image-1.png"
+                                                alt="footer-gallery-image" class="w-100 d-flex">
+                                        </a>
+                                    </li>
+                                    <li class="col-4 mb-24">
+                                        <a href="">
+                                            <img src="./assets/image/footer-gallery-image-2.png"
+                                                alt="footer-gallery-image" class="w-100 d-flex">
+                                        </a>
+                                    </li>
+                                    <li class="col-4 mb-24">
+                                        <a href="">
+                                            <img src="./assets/image/footer-gallery-image-3.png"
+                                                alt="footer-gallery-image" class="w-100 d-flex">
+                                        </a>
+                                    </li>
+                                    <li class="col-4 mb-24 mb-md-0">
+                                        <a href="">
+                                            <img src="./assets/image/footer-gallery-image-4.png"
+                                                alt="footer-gallery-image" class="w-100 d-flex">
+                                        </a>
+                                    </li>
+                                    <li class="col-4 mb-24 mb-md-0">
+                                        <a href="">
+                                            <img src="./assets/image/footer-gallery-image-5.png"
+                                                alt="footer-gallery-image" class="w-100 d-flex">
+                                        </a>
+                                    </li>
+                                    <li class="col-4 mb-24 mb-md-0">
+                                        <a href="" class="text-white show-more">Show More</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
