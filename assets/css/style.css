@@ -734,6 +734,326 @@ button {
     padding-left: 18px;
 }
 
+.bg-clr {
+    background-color: #000000;
+    height: 750px;
+    width: 100%;
+
+}
+
+.font_112 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+
+
+
+
+    color: #2C49FE;
+}
+
+.font_111 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 135%;
+
+
+
+    color: #01C8FF;
+
+}
+
+.font-5 {
+
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+    padding-top: 36px;
+
+}
+
+.pading11 {
+    padding-top: 8px;
+    padding-left: 15px;
+}
+
+.pading01 {
+    padding-top: 24px;
+}
+
+.font-7 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    display: inline-block;
+    padding-top: 12px;
+
+
+
+
+    color: #FFFFFF;
+}
+
+.pt1 {
+    padding-top: 10px;
+}
+
+.font-8 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 150%;
+
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+
+
+
+
+.font-6 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+
+    color: #FFFFFF;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: -12px;
+    margin-right: -12px;
+    width: 100%;
+
+
+}
+
+.col-12 {
+    width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.col-6 {
+    width: 50%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.col-3 {
+    width: 25%;
+    padding-left: 12px;
+    padding-top: 12px;
+
+}
+
+
+.col-4 {
+    width: 33.33%;
+    padding: 0 12px;
+}
+
+.col-5 {
+    width: 41.66%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.col-7 {
+    width: 58.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding: 0;
+    padding: 12px;
+}
+
+.w-350 {
+    width: 350px;
+}
+
+.pt-80 {
+    padding-top: 81px;
+}
+
+.mb-24 {
+    margin-bottom: 24px;
+}
+
+.font-9 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    padding-top: 123px;
+
+
+    color: #FFFFFF;
+}
+
+.mb-0 {
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+@media(min-width:992px) {
+    .col-lg-5 {
+        width: 41.66%;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .pt-lg-126 {
+        padding-top: 126px;
+    }
+
+    .col-lg-7 {
+        width: 58.33%;
+        padding-left: 12px;
+        padding-right: 12px;
+
+
+    }
+
+    .w-lg-350 {
+        width: 350px;
+    }
+
+
+    .bg-clr {
+        background-color: #000000;
+        height: 550px;
+        width: 100%;
+
+    }
+
+    .font-5 {
+        width: 346px;
+
+    }
+
+
+}
+
+@media(min-width:577px) {
+
+    .col-sm-3 {
+        width: 25%;
+        padding-left: 12px;
+        padding-top: 12px;
+
+    }
+
+    .col-sm-6 {
+        width: 50%;
+        padding-left: 12px;
+        padding-top: 12px;
+
+    }
+
+    .mb-sm-0 {
+        margin-bottom: 0;
+    }
+
+    .mb-sm-0 {
+        margin-bottom: 0;
+    }
+
+
+}
+
+@media(max-width:560px) {
+    .bg-clr {
+        background-color: #000000;
+        height: 950px;
+        width: 100%;
+
+    }
+}
+
+@media(min-width:769px) {
+    .mb-md-0 {
+        margin-bottom: 0;
+    }
+}
+
+@media(max-width:400px) {
+    .pl1 {
+        padding-left: 20px;
+    }
+
+    .pl2 {
+        padding-left: 25px;
+    }
+
+    .pl3 {
+        padding-left: 45px;
+    }
+
+    .pading11 {
+        padding-left: 1px;
+    }
+
+
+}
+
+@media(max-width:720px) {
+    .pl1 {
+        padding-left: 20px;
+    }
+
+    .pl2 {
+        padding-left: 25px;
+    }
+
+    .pl3 {
+        padding-left: 45px;
+    }
+}
+
+@media(min-width:992px) {
+    .pl1 {
+        padding-left: 20px;
+    }
+
+    .pl2 {
+        padding-left: 25px;
+    }
+
+    .pl3 {
+        padding-left: 45px;
+    }
+}
 
 
 @media(max-width:1335px) {
